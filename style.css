@@ -9,7 +9,7 @@ body {
     width: 50px;
 }
 
-.header {
+header {
     display: flex;
     background-color: lightseagreen;
     padding: 1%;
